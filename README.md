@@ -1,4 +1,4 @@
-# AI-Powered Emotion-Based Music Recommendation System
+# Multimodal-Emotion-Aware-Music-Recommendation-System
 
 ## Overview
 
