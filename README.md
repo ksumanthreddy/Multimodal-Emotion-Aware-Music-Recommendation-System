@@ -16,8 +16,8 @@ An AI-powered Python application that detects a user's facial emotion through a 
 - Python
 - OpenCV
 - NumPy
-- TensorFlow / Keras (if used)
-- DeepFace (if used)
+- TensorFlow / Keras
+- DeepFace 
 - Pygame (for music playback)
 - OS and File Handling Modules
 
