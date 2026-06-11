@@ -6,6 +6,8 @@ This project is an AI-powered emotion detection and music recommendation system 
 
 The application captures live video from a webcam, detects the user's face using MediaPipe, classifies emotions using a Deep Learning-based facial emotion recognition model, and automatically recommends songs that match the detected mood. Additionally, the system integrates Gemini AI for conversational interaction, allowing users to communicate with the assistant through voice commands.
 
+Still needed to extend the project by integrating with the sppech emotion recognitation so with the two results the emotion can be predcied some accurately.
+
 ---
 
 ## Features
@@ -248,18 +250,11 @@ The user can continue interacting with the Gemini-powered assistant through voic
   * Disgust
 
 * Emotion history tracking
-
 * Music recommendation using Spotify API
-
-* Web-based deployment
-
-* Mobile application support
-
 * User profile personalization
-
 * Multilingual voice interaction
-
 * Real-time emotion analytics dashboard
+* Integration with sppech emotion recognitation
 
 ---
 
