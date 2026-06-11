@@ -240,33 +240,67 @@ The user can continue interacting with the Gemini-powered assistant through voic
 
 ---
 
-## Future Enhancements
+## Future Enhancement: Multimodal Emotion Recognition
 
-* Support for additional emotions such as:
+The current system predicts user emotions primarily through facial expression analysis using Computer Vision techniques. While facial expressions provide valuable emotional cues, relying solely on visual information may not always produce the most accurate results due to variations in lighting conditions, facial occlusions, camera quality, and individual expression patterns.
 
-  * Angry
-  * Fear
-  * Surprise
-  * Disgust
+To improve emotion recognition accuracy, the system will be extended with **Speech Emotion Recognition (SER)**, creating a **Multimodal Emotion Recognition Framework**.
 
-* Emotion history tracking
-* Music recommendation using Spotify API
-* User profile personalization
-* Multilingual voice interaction
-* Real-time emotion analytics dashboard
-* Integration with sppech emotion recognitation
+### Planned Improvements
 
----
+#### Speech Emotion Recognition
 
-## Results
+* Analyze vocal characteristics such as:
 
-The system successfully performs:
+  * Pitch
+  * Tone
+  * Energy
+  * Speaking rate
+  * Spectral features (MFCCs)
+* Classify emotions directly from the user's voice.
 
-* Real-time face detection
-* Deep Learning-based emotion recognition
-* Emotion-driven music recommendation
-* Voice-controlled interaction
-* AI-powered conversational assistance
+#### Multimodal Emotion Fusion
+
+* Combine:
+
+  * Facial Emotion Recognition (FER)
+  * Speech Emotion Recognition (SER)
+
+* Use fusion techniques such as:
+
+  * Weighted averaging
+  * Confidence-based fusion
+  * Machine Learning ensemble models
+
+#### Enhanced Emotion Categories
+
+The extended system will support a wider range of emotions:
+
+* Happy
+* Sad
+* Neutral
+* Angry
+* Fear
+* Surprise
+* Disgust
+
+#### Improved Recommendation Engine
+
+Music recommendations will be generated using both facial and vocal emotional cues, resulting in more personalized and accurate mood-based song selection.
+
+### Expected Benefits
+
+* Higher emotion recognition accuracy
+* Better robustness under varying environmental conditions
+* Reduced false emotion predictions
+* Improved user experience
+* More personalized music recommendations
+* Stronger Human-AI interaction capabilities
+
+### Long-Term Vision
+
+The ultimate goal is to build a fully multimodal emotional AI assistant capable of understanding users through facial expressions, speech patterns, and conversational context, enabling emotionally intelligent and context-aware interactions.
+
 
 This project demonstrates the integration of Computer Vision, Deep Learning, Speech Processing, and Generative AI into a single intelligent application capable of understanding user emotions and delivering personalized experiences.
 
