@@ -8,15 +8,13 @@ An AI-powered Python application that detects a user's facial emotion through a 
 -  Webcam-based face capture
 -  Automatic song recommendation
 -  Mood-based music playback
--  Interactive user experience
--  Organized song library
 
 ##  Technologies Used
 
 - Python
 - OpenCV
 - NumPy
-- TensorFlow / Keras
+- TensorFlow
 - DeepFace 
 - Pygame (for music playback)
 - OS and File Handling Modules
@@ -124,6 +122,7 @@ The application will:
 
 - Spotify integration
 - Better emotion recognition accuracy
+- Integration with speech emotion recognitation
 - Playlist generation
 - GUI using Tkinter or PyQt
 - Voice command support
