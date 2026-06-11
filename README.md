@@ -129,10 +129,7 @@ The application will:
 - Voice command support
 - Multi-user detection
  
-## Still Working For Further Improvements
-
 Built with Python, Computer Vision, and AI to create a personalized music experience based on human emotions.
 
----
-
-⭐ If you like this project, consider giving it a star on GitHub!
+## Still Working For Further Improvements
+ 
