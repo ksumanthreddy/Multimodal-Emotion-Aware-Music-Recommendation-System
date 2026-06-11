@@ -124,10 +124,8 @@ The application will:
 - Better emotion recognition accuracy
 - Integration with speech emotion recognitation
 - Playlist generation
-- GUI using Tkinter or PyQt
-- Voice command support
-- Multi-user detection
- 
+- GUI using PyQt
+   
 Built with Python, Computer Vision, and AI to create a personalized music experience based on human emotions.
 
 ### Still Working For Further Improvements...
